@@ -1,8 +1,8 @@
-# Power-BI-projects
-This repository contains all the projects related to power BI dashboards.
+# Power-BI-projects <br>
+This repository contains all the projects related to power BI dashboards. <br>
 
-**HR Analytical Dashboard**
-OBJECTIVE:
+**HR Analytical Dashboard** <br>
+OBJECTIVE: <br>
 This visualization project dives deep into understanding employee attrition rates and the factors influencing them within the organization. It harness HR metrics for informed decision-making. 
 
 KPI:
